@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="age_input">Age(1 year or above)</string>
+    <string name="height_input">Height(cm)</string>
+    <string name="weight_input">Weight(kg)</string>
+    <string name="male_option">Male</string>
+    <string name="female_option">Female</string>
+    <string name="button_text">Calculate</string>
+    <string name="what_is_your_gender">What is your gender?</string>
+</resources>
